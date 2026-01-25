@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+joblib
+seaborn
+matplotlib
